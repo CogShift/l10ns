@@ -49,6 +49,21 @@ module.exports = {
       }
     }
   },
+  'NZD': {
+    symbols: {
+      local: '$',
+      global: 'NZ$',
+      reverseGlobal: '$NZ'
+    },
+    text: {
+      en: {
+        local: {
+          one: 'dollar',
+          other: 'dollars'
+        }
+      }
+    }
+  },
   'BDT': {
     symbols: {
       local: '৳',
